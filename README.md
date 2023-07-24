@@ -31,7 +31,10 @@ https://github.com/DarshanKumbhani/pr_6_animation/assets/119837659/63611619-8f7d
    </p>
 
 
-https://github.com/DarshanKumbhani/pr_6_animation/assets/119837659/9393c939-0532-43c0-80f3-f60e17be2c49
+
+https://github.com/DarshanKumbhani/pr_6_animation/assets/119837659/10e961e9-dfe2-4d2e-9671-6aeff945883d
+
+
 <p>
  <img src="https://github.com/DarshanKumbhani/pr_6_animation/assets/119837659/1831ea8d-8e53-4670-9869-f5e5f031b4ed"
  height="60%" width="30%">
