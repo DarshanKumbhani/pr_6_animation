@@ -22,11 +22,11 @@ https://github.com/DarshanKumbhani/pr_6_animation/assets/119837659/63611619-8f7d
 
 
  <img src="https://github.com/DarshanKumbhani/pr_6_animation/assets/119837659/486a3771-4b45-4c3f-8812-4adc8a0da560"
- height="70%" width="40%">
+ height="70%" width="30%">
   <img src="https://github.com/DarshanKumbhani/pr_6_animation/assets/119837659/4956212d-7710-442f-9f21-426586b4c40d"
- height="70%" width="40%">
+ height="70%" width="30%">
   <img src="https://github.com/DarshanKumbhani/pr_6_animation/assets/119837659/bf43f1e9-6dd6-4461-b1f4-5aa66618fd1e"
- height="70%" width="40%">
+ height="70%" width="30%">
  
    </p>
 
